@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **HuiYingChung/HuiYingChung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Hi there 👋
 -->
 
 # Greetings!
+
+Huiying Chung is an enthusiastic user experience college student seeking an internship position in a forward-thinking organization that values growth and innovation. She is keen to collaborate with industry professionals and leverage her skills to enhance visual designs and positively impact customers' quality of life.
+
+[Huiying's Blog](https://freexeme.blogspot.com/)
+[Huiying's LinedIn](https://www.example.com)
+[Huiying's CodePen](https://codepen.io/HuiYingChung/)
