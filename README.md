@@ -21,21 +21,13 @@ Here are some ideas to get you started:
 ### About Me
 <p>I am an enthusiastic user experience college student seeking an internship position in a forward-thinking organization that values growth and innovation. keen to collaborate with industry professionals and leverage her skills to enhance visual designs and positively impact customers' quality of life.</p>
 
-### Hobbies
-<ul>
-    <li>Learning to Code</li>
-    <li>Design in Applied Art</li>
-    <li>Playing Badminton</li>
-    <li>Road trip</li>
-</ul>
-
-### Skills
+<table>
 
 | Hobbies     | Skills      |
 | ----------- | ----------- |
 | &#9829;&nbsp;Learning to Code<br> &#9829;&nbsp;Design in Applied Art<br> &#9829;&nbsp;Playing Badminton<br> &#9829;&nbsp;Road trip | &#10003;&nbsp;Adobe Suite<br>&#10003;&nbsp;Figma<br>&#10003;&nbsp;Social Media |
   
-
+</table>
 
 
 <p>&#128240;&nbsp;<a href="https://freexeme.blogspot.com/" target="_blank">Huiying's Blog</a></p>
