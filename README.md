@@ -22,3 +22,5 @@ Huiying Chung is an enthusiastic user experience college student seeking an inte
 - [Huiying's Blog](https://freexeme.blogspot.com/)
 - [Huiying's LinedIn](https://www.example.com)
 - [Huiying's CodePen](https://codepen.io/HuiYingChung/)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huiyingchung&show_icons=true&locale=en" alt="huiyingchung" /></p>
