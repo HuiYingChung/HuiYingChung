@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 | Hobbies     | Skills      |
 | ----------- | ----------- |
-| &#9829;;&nbsp;Learning to Code<br> &#9829;;&nbsp;Design in Applied Art<br> &#9829;;&nbsp;Playing Badminton<br> &#9829;;&nbsp;Road trip | &#10003;&nbsp;Adobe Suite<br>&#10003;&nbsp;Figma<br>&#10003;&nbsp;Social Media |
+| &#9829;&nbsp;Learning to Code<br> &#9829;&nbsp;Design in Applied Art<br> &#9829;&nbsp;Playing Badminton<br> &#9829;&nbsp;Road trip | &#10003;&nbsp;Adobe Suite<br>&#10003;&nbsp;Figma<br>&#10003;&nbsp;Social Media |
   
 
 
