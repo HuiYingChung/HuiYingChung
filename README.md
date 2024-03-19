@@ -17,7 +17,19 @@ Here are some ideas to get you started:
 
 # Greetings!
 
-Huiying Chung is an enthusiastic user experience college student seeking an internship position in a forward-thinking organization that values growth and innovation. She is keen to collaborate with industry professionals and leverage her skills to enhance visual designs and positively impact customers' quality of life.
+
+### About Me
+<p>I am an enthusiastic user experience college student seeking an internship position in a forward-thinking organization that values growth and innovation. keen to collaborate with industry professionals and leverage her skills to enhance visual designs and positively impact customers' quality of life.</p>
+
+### Hobbies
+<ul>
+    <li>Learning to Code</li>
+    <li>Design in Applied Art</li>
+    <li>Playing Badminton</li>
+    <li>Road trip</li>
+</ul>
+
+### Skills
 
 <p>&#128240;&nbsp;<a href="https://freexeme.blogspot.com/" target="_blank">Huiying's Blog</a></p>
 <p>&#128105;&nbsp;<a href="https://www.linkedin.com/in/huiying-chung-013057a0/" target="_blank">Huiying's LinkedIn</a></p>
