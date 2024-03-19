@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 | Hobbies     | Skills      |
 | ----------- | ----------- |
-| Learning to Code      | Title       |
-  Design in Applied Art
+| Learning to Code<br>Design in Applied Art      | Title       |
+  
 
 
 
