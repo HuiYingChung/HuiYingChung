@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 | Hobbies     | Skills      |
 | ----------- | ----------- |
 | Learning to Code      | Title       |
-| Design in Applied Art   | Text        |
+  Design in Applied Art
 
 
 
