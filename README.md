@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 
 | Hobbies     | Skills      | Links      |
 | ----------- | ----------- | ----------- |
-| &#9829;&nbsp;Learning to Code<br> &#9829;&nbsp;Design in Applied Art<br> &#9829;&nbsp;Playing Badminton<br> &#9829;&nbsp;Road trip | &#10003;&nbsp;Adobe Suite<br>&#10003;&nbsp;Figma<br>&#10003;&nbsp;Social Media |&#128240;&nbsp;<a href="https://freexeme.blogspot.com/" target="_blank">Huiying's Blog</a>
-&#128105;&nbsp;<a href="https://www.linkedin.com/in/huiying-chung-013057a0/" target="_blank">Huiying's LinkedIn</a>
-&#128187;&nbsp;<a href="https://codepen.io/HuiYingChung/" target="_blank">Huiying's CodePen</a>
+| &#9829;&nbsp;Learning to Code<br> &#9829;&nbsp;Design in Applied Art<br> &#9829;&nbsp;Playing Badminton<br> &#9829;&nbsp;Road trip | &#10003;&nbsp;Adobe Suite<br>&#10003;&nbsp;Figma<br>&#10003;&nbsp;Social Media |&#128240;&nbsp;<a href="https://freexeme.blogspot.com/" target="_blank">Huiying's Blog</a>&#128105;&nbsp;<a href="https://www.linkedin.com/in/huiying-chung-013057a0/" target="_blank">Huiying's LinkedIn</a>&#128187;&nbsp;<a href="https://codepen.io/HuiYingChung/" target="_blank">Huiying's CodePen</a> |
   
 </table>
 
