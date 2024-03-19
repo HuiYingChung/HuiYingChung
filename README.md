@@ -30,9 +30,4 @@ Here are some ideas to get you started:
 </table>
 
 
-<p>&#128240;&nbsp;<a href="https://freexeme.blogspot.com/" target="_blank">Huiying's Blog</a></p>
-<p>&#128105;&nbsp;<a href="https://www.linkedin.com/in/huiying-chung-013057a0/" target="_blank">Huiying's LinkedIn</a></p>
-<p>&#128187;&nbsp;<a href="https://codepen.io/HuiYingChung/" target="_blank">Huiying's CodePen</a></p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huiyingchung&show_icons=true&locale=en" alt="huiyingchung" /></p>
