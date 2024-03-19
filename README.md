@@ -31,6 +31,13 @@ Here are some ideas to get you started:
 
 ### Skills
 
+| Hobbies     | Skills      |
+| ----------- | ----------- |
+| Learning to Code      | Title       |
+| Design in Applied Art   | Text        |
+
+
+
 <p>&#128240;&nbsp;<a href="https://freexeme.blogspot.com/" target="_blank">Huiying's Blog</a></p>
 <p>&#128105;&nbsp;<a href="https://www.linkedin.com/in/huiying-chung-013057a0/" target="_blank">Huiying's LinkedIn</a></p>
 <p>&#128187;&nbsp;<a href="https://codepen.io/HuiYingChung/" target="_blank">Huiying's CodePen</a></p>
