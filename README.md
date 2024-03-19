@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 Huiying Chung is an enthusiastic user experience college student seeking an internship position in a forward-thinking organization that values growth and innovation. She is keen to collaborate with industry professionals and leverage her skills to enhance visual designs and positively impact customers' quality of life.
 
-<p><a href="https://freexeme.blogspot.com/" target="_blank">&#128240;&nbsp; Huiying's Blog</a></p>
-<p><a href="https://www.linkedin.com/in/huiying-chung-013057a0/" target="_blank">&#128105;&nbsp; Huiying's LinedIn</a></p>
-<p><a href="https://codepen.io/HuiYingChung/" target="_blank">&#128187;&nbsp; Huiying's CodePen</a></p>
+<p>&#128240;&nbsp;<a href="https://freexeme.blogspot.com/" target="_blank">Huiying's Blog</a></p>
+<p>&#128105;&nbsp;<a href="https://www.linkedin.com/in/huiying-chung-013057a0/" target="_blank">Huiying's LinedIn</a></p>
+<p>&#128187;&nbsp;<a href="https://codepen.io/HuiYingChung/" target="_blank">Huiying's CodePen</a></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huiyingchung&show_icons=true&locale=en" alt="huiyingchung" /></p>
