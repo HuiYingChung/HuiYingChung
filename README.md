@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ### About Me
-<p>I am an enthusiastic user experience college student seeking an internship position in a forward-thinking organization that values growth and innovation. keen to collaborate with industry professionals and leverage her skills to enhance visual designs and positively impact customers' quality of life.</p>
+<p>I am an enthusiastic user experience college student seeking an internship position in a forward-thinking organization that values growth and innovation. keen to collaborate with industry professionals and leverage my skills to enhance visual designs and positively impact customers' quality of life.</p>
 
 <table>
 
