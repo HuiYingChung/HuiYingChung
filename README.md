@@ -59,3 +59,13 @@ I am keen to collaborate with industry professionals and leverage my skills in v
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
+
+---
+
+### GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HuiYingChung&show_icons=true&theme=radical&count_private=true" alt="Huiying's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuiYingChung&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
+</p>
