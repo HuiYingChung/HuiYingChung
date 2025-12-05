@@ -1,4 +1,4 @@
-### Hi there, I'm Huiying! 👋
+### Hi there, I'm Huiying!
 
 I am an enthusiastic **User Experience (UX) student** seeking an internship in a forward-thinking organization that values growth and innovation. 
 
@@ -6,7 +6,7 @@ I am keen to collaborate with industry professionals and leverage my skills in v
 
 ---
 
-### 🧠 Core Skills
+### Core Skills
 
 - **User Experience (UX) Design:** Wireframing, Prototyping, User Flow
 - **Visual Design:** Graphic Design, Branding, Layout (Applied Art background)
@@ -15,7 +15,7 @@ I am keen to collaborate with industry professionals and leverage my skills in v
 
 ---
 
-### 🛠️ Tools & Software
+### Tools & Software
 
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -31,16 +31,16 @@ I am keen to collaborate with industry professionals and leverage my skills in v
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Language" />
 </p>
 
-### 🏸 Hobbies & Interests
+### Hobbies & Interests
 
-* 💻 **Learning to Code:** Exploring the intersection of design and development.
-* 🖌️ **Design in Applied Art:** Passionate about aesthetics and functionality.
-* 🏸 **Badminton:** I love staying active!
-* 🚗 **Road Trips:** Exploring new places inspires my creativity.
+* **Learning to Code:** Exploring the intersection of design and development.
+* **Design in Applied Art:** Passionate about aesthetics and functionality.
+* **Badminton:** I love staying active!
+* **Road Trips:** Exploring new places inspires my creativity.
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/huiying-chung-013057a0/" target="_blank">
