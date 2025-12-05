@@ -62,10 +62,23 @@ I am keen to collaborate with industry professionals and leverage my skills in v
 
 ---
 
-### GitHub Analytics
-
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HuiYingChung&show_icons=true&theme=radical&count_private=true" alt="Huiying's GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuiYingChung&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
+</p> -->
+
+
+
+<!-- <p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuiYingChung&theme=radical" alt="Huiying's Streak" />
+  
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=HuiYingChung&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Huiying's Trophies" />
+</p> -->
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HuiYingChung&label=Profile%20Views&color=0e75b6&style=flat" alt="Huiying's Profile Views" />
 </p>
