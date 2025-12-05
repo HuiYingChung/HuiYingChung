@@ -13,7 +13,6 @@ I am keen to collaborate with industry professionals and leverage my skills in v
 - **User Research:** Statistical Analysis, Usability Testing
 - **Front-end Development:** Implementing responsive designs with code
 
----
 
 ### Tools & Software
 
@@ -43,14 +42,14 @@ I am keen to collaborate with industry professionals and leverage my skills in v
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Language" />
 </p>
 
+---
+
 ### Hobbies & Interests
 
 * **Learning to Code:** Exploring the intersection of design and development.
 * **Design in Applied Art:** Passionate about aesthetics and functionality.
 * **Badminton:** I love staying active!
 * **Road Trips:** Exploring new places inspires my creativity.
-
----
 
 ### Connect with Me
 
