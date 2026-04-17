@@ -2,7 +2,7 @@
 
 I am an enthusiastic **User Experience (UX) student** seeking an internship in a forward-thinking organization that values growth and innovation. 
 
-I am keen to collaborate with industry professionals and leverage my skills in visual design to positively impact customers' quality of life.
+I am keen to collaborate with industry professionals and leverage my skills in UX design and visual design to positively impact customers' quality of life.
 
 ---
 
