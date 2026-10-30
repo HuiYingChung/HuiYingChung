@@ -21,6 +21,3 @@ Outside of design, I enjoy badminton and road trips.
 
 [Portfolio](https://www.huiyingchung.com/) · [LinkedIn](https://www.linkedin.com/in/huiying-chung-013057a0/)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HuiYingChung&label=Profile%20Views&color=0e75b6&style=flat" alt="Huiying's Profile Views" />
-</p>
