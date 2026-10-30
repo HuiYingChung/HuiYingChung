@@ -11,6 +11,12 @@ Award-winning projects:
 - [Where Dragons Dwell](https://www.huiyingchung.com/dragon-map-case-study.html) — 3rd place, Handshake × OpenAI Codex Creator Challenge (2026).
 - [Kickoff Buddy](https://www.huiyingchung.com/kickoff-buddy-case-study.html) — Best Use of Technology, AI Builders Challenge by IBM SkillsBuild (June 2026).
 
+Latest:
+- [Sky to Porch](https://www.huiyingchung.com/sky-to-porch-case-study.html) — Reading Public Hazard Data.
+- [Ways of Healing](https://www.huiyingchung.com/ways-of-healing-case-study.html) — A Field Atlas of Culture and Care.
+- [Rehello](https://www.huiyingchung.com/re-hello-case-study.html) — Remembering What to Ask Next.
+- [Openhall](https://www.huiyingchung.com/openhall-case-study.html) — Turning an Artist’s Work into a Walkable 3D Exhibition.
+
 ## Tools
 
 - Design: Figma, Photoshop, Illustrator, InDesign, Lightroom, Premiere Pro, After Effects
