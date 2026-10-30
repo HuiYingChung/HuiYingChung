@@ -19,5 +19,4 @@ Award-winning projects:
 
 Outside of design, I enjoy badminton and road trips.
 
-[Portfolio](https://www.huiyingchung.com/) · [LinkedIn](https://www.linkedin.com/in/huiying-chung-013057a0/)
-
+[Portfolio](https://www.huiyingchung.com/) · [LinkedIn](https://www.linkedin.com/in/huiying-chung)
