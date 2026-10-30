@@ -1,6 +1,6 @@
 # Hi, I'm Huiying.
 
-I'm a UX/UI and product designer studying Graphic Information Technology at Arizona State University, with a background in visual communication. I focus on making information and interactions easier to understand.
+I'm a UX/UI and product designer with a B.S. in Graphic Information Technology (User Experience) from Arizona State University (2026) and a background in visual communication. I focus on making information and interactions easier to understand.
 
 ## Design process and AI collaboration
 
