@@ -6,6 +6,8 @@ I'm a UX/UI and product designer studying Graphic Information Technology at Ariz
 
 I start with the problem, then shape the content, user flows, and visual design. I set requirements, guide revisions, and evaluate the experience. AI tools help generate, review, and revise the code.
 
+Award-winning projects:
+
 - [Where Dragons Dwell](https://www.huiyingchung.com/dragon-map-case-study.html) — 3rd place, Handshake × OpenAI Codex Creator Challenge (2026).
 - [Kickoff Buddy](https://www.huiyingchung.com/kickoff-buddy-case-study.html) — Best Use of Technology, AI Builders Challenge by IBM SkillsBuild (June 2026).
 
