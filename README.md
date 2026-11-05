@@ -1,4 +1,7 @@
-<img src="assets/huiying-chung-wordmark.png" alt="Huiying Chung" width="100">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/huiying-chung-wordmark-dark.svg">
+  <img src="assets/huiying-chung-wordmark-light.svg" alt="Huiying Chung" width="100">
+</picture>
 
 # Hi, I'm Huiying.
 
@@ -10,13 +13,10 @@ B.S. in Graphic Information Technology, Arizona State University — expected De
 
 I start with user research and problem definition, then shape the content, user flows, and visual design. I set requirements, direct implementation, and evaluate usability. AI tools help generate, review, and revise code; I make the product and design decisions and guide revisions.
 
-```mermaid
-flowchart LR
-    A["Research and define"] --> B["Content, flows, and visual design"]
-    B --> C["Develop with AI"]
-    C --> D["Evaluate usability"]
-    D -->|Revise| B
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/design-process-dark.svg">
+  <img src="assets/design-process-light.svg" alt="Design process: research and define, then content, flows, and visual design, then develop with AI, then evaluate usability, with a revise loop back to design." width="568">
+</picture>
 
 ## Award-winning projects
 
