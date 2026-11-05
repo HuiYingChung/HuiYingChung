@@ -40,7 +40,7 @@ flowchart LR
 
 Outside of design, I enjoy badminton and road trips.
 
-![Playing badminton: a smash and recovery](assets/huiying-smash-loop.gif)
+<img src="assets/huiying-smash-loop.gif" alt="Badminton smash" width="240">
 
 ## Connect with me
 
