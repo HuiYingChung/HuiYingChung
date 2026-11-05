@@ -1,4 +1,4 @@
-<img src="assets/huiying-chung-wordmark.png" alt="Huiying Chung" width="134">
+<img src="assets/huiying-chung-wordmark.png" alt="Huiying Chung" width="100">
 
 # Hi, I'm Huiying.
 
