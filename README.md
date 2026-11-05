@@ -32,7 +32,7 @@ I start with user research and problem definition, then shape the content, user 
 
 ## Tools
 
-- Design: Figma, Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Adobe Premiere Pro, Adobe InDesign, Adobe After Effects
+- Design: Figma, Adobe Photoshop, Illustrator, Lightroom, Premiere Pro, InDesign, After Effects
 - AI collaboration: Codex, Claude Code, IBM Bob, Gemini, Grok
 - Development and publishing: GitHub, Vercel, VS Code, CodePen
 
