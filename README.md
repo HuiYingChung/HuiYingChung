@@ -20,7 +20,7 @@ I start with user research and problem definition, then shape the content, user 
 
 ## Award-winning projects
 
-- [Where Dragons Dwell](https://www.huiyingchung.com/dragon-map-case-study.html) — 3rd place, Handshake × OpenAI Codex Creator Challenge (2026).
+- [Where Dragons Dwell](https://www.huiyingchung.com/dragon-map-case-study.html) — 3rd place, Handshake × OpenAI Codex Creator Challenge ( April 2026).
 - [Kickoff Buddy](https://www.huiyingchung.com/kickoff-buddy-case-study.html) — Best Use of Technology, AI Builders Challenge by IBM and BeMyApp (June 2026).
 
 ## Selected work
