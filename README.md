@@ -16,7 +16,7 @@ I start with user research and problem definition, then shape the content, user 
 <a href="assets/design-process-light.svg">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/design-process-dark.svg">
-  <img src="assets/design-process-light.svg" alt="Design and AI development workflow: brainstorm, research, decide direction, develop with AI and review in a text editor, repeat polishing and review, deliver or update, gather user feedback, and iterate. Return to research when needed." width="100%">
+  <img src="assets/design-process-light.svg" alt="Design and AI development workflow: brainstorm, research, decide direction, design the content, flows, and visual design, develop with AI and review in a text editor, repeat polishing and review, deliver or update, gather user feedback, and iterate. Return to research when needed." width="100%">
 </picture>
 </a>
 
