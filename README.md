@@ -13,10 +13,12 @@ B.S. in Graphic Information Technology, Arizona State University — expected De
 
 I start with user research and problem definition, then shape the content, user flows, and visual design. I set requirements, direct implementation, and evaluate usability. AI tools help generate, review, and revise code; I make the product and design decisions and guide revisions.
 
+<a href="assets/design-process-light.svg">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/design-process-dark.svg">
-  <img src="assets/design-process-light.svg" alt="Design process: research and define, then content, flows, and visual design, then develop with AI, then evaluate usability, with a revise loop back to design." width="568">
+  <img src="assets/design-process-light.svg" alt="Design and AI development workflow: brainstorm, research, decide direction, develop with AI and review in a text editor, repeat polishing and review, deliver or update, gather user feedback, and iterate. Return to research when needed." width="100%">
 </picture>
+</a>
 
 ## Award-winning projects
 
